@@ -1,5 +1,8 @@
 # RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-III
 
+# This is NOT maintained anymore.
+I have switched to DWM so I do not maintain this anymore. The config files may have minor errors here and there due to personalization.
+
 # Desktop Preview
 ![RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-III](https://raw.githubusercontent.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-III/main/Media/Desktop/Preview.png)
 
@@ -31,6 +34,9 @@ https://user-images.githubusercontent.com/77635620/182529347-df599587-1575-4029-
 # Edition II
 
 [Here](https://github.com/Red1922/RT-Artix-Linux-BSPWM-Files-Dotfiles-Edition-II)
+
+# Contact
+https://revolt.chat.app -> `@R. T. Redreovič`
 
 # Special Thanks to
 
